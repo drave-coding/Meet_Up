@@ -1,4 +1,4 @@
-# MeetUp
+![Screenshot 2025-04-08 102740](https://github.com/user-attachments/assets/a5e46d26-fcaf-490c-8710-70e92ca5cfb5)# MeetUp
 
 MeetUp is a video calling web application built using Next.js, React, and Stream SDK. It allows users to schedule, join, and manage video meetings seamlessly. The app was created to simplify virtual communication and includes features such as instant meetings, scheduled meetings, personal meeting rooms, and meeting recordings.
 
@@ -115,9 +115,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **Live Demo**: [MeetUp Live](https://your-deployed-url.com)
 - **Screenshots**:
   - Home Page:
-    ![Home Page](https://via.placeholder.com/800x400)
+    ![Screenshot 2025-04-08 102703](https://github.com/user-attachments/assets/0e53cdee-ef77-409c-bed4-39d4c70a59a9)
+
   - Meeting Room:
-    ![Meeting Room](https://via.placeholder.com/800x400)
+    ![Screenshot 2025-04-08 102740](https://github.com/user-attachments/assets/2e158b9c-f9c0-401f-ac1f-78581293e4fe)
+
 
 ## Changelog
 
