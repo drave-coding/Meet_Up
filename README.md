@@ -121,6 +121,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
     ![Screenshot 2025-04-08 102740](https://github.com/user-attachments/assets/2e158b9c-f9c0-401f-ac1f-78581293e4fe)
 
 
-## Changelog
 
-See the [CHANGELOG.md](CHANGELOG.md) file for a detailed list of changes.
